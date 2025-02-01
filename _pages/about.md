@@ -54,7 +54,7 @@ Neural Information Processing Systems <span style="color:purple">**(NeurIPS)**</
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2022.09 - Present*, Ph.D. in Graduate School of AI, <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>.
+- *2022.09 - Present*, Ph.D. in Graduate School of Artificial Intelligence, <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>.
 - *2018.03 - 2022.08*, B.S. in Electrical Engineering and Computer Science, <a href="https://www.gist.ac.kr/en/main.html" style="color: #7289da; text-decoration: none;">GIST</a>.
 
 <!--# 💬 Invited Talks
