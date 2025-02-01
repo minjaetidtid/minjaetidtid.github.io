@@ -47,7 +47,7 @@ Medical Image Computing and Computer Assisted Intervention <span style="color:pu
 - <font size="3">Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion</font> 
 [[paper]](https://neurips.cc/virtual/2023/poster/70356) \
 Hyuna Cho, **Minjae Jeong**, Sooyeon Jeon, Sungsoo Ahn, Won Hwa Kim \
-Neural Information Processing Systems <span style="color:purple">**NeurIPS**</span> 2023
+Neural Information Processing Systems <span style="color:purple">**(NeurIPS)**</span> 2023
 
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
