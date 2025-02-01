@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://mip.postech.ac.kr/" style="color: #7289da; text-decoration: none;">MIP Lab</a> at Pohang University of Science and Technology (POSTECH), currently advised by Prof. <a href="https://wwplato.github.io/" style="color: #7289da; text-decoration: none;">Won Hwa Kim</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="https://drive.google.com/" style="color: #7289da; text-decoration:none">CV</a>.
+I am a PhD student at <a href="https://mip.postech.ac.kr/" style="color: #7289da; text-decoration: none;">MIP Lab</a> at Pohang University of Science and Technology (POSTECH), currently advised by Prof. <a href="https://wwplato.github.io/" style="color: #7289da; text-decoration: none;">Won Hwa Kim</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="https://about:blank" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interest includes:
 - Generative AI
@@ -35,19 +35,19 @@ My primary research interest includes:
 - <font size="3">HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</font> 
 [[paper]](https://openreview.net/forum?id=IEul1M5pyk) \
 **Minjae Jeong** *, Yechan Hwang *, Jaejin Lee, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
-<span style="color:purple">**ICLR**</span> 2025
+International Conference on Learning Representations <span style="color:purple">**(ICLR)**</span> 2025
 
 
 - <font size="3">Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</font>
 [[paper]](https://papers.miccai.org/miccai-2024/809-Paper2811.html) \
 **Minjae Jeong** *, Hyuna Cho *, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
-<span style="color:purple">**MICCAI**</span> 2024 [**Provisional Accept**: ~11%]
+Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2024 [**Provisional Accept**: ~11%]
 
 
 - <font size="3">Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion</font> 
 [[paper]](https://neurips.cc/virtual/2023/poster/70356) \
 Hyuna Cho, **Minjae Jeong**, Sooyeon Jeon, Sungsoo Ahn, Won Hwa Kim \
-<span style="color:purple">**NeurIPS**</span> 2023
+Neural Information Processing Systems <span style="color:purple">**NeurIPS**</span> 2023
 
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
