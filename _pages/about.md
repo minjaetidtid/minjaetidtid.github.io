@@ -62,8 +62,8 @@ Hyuna Cho, **Minjae Jeong**, Sooyeon Jeon, Sungsoo Ahn, Won Hwa Kim \
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
 # 💻 Work Experience
-- *2021.09 - 2022.08*, Undergraduate Research Intern at <a href="https://jeanyson.github.io/lab/" style="color: #7289da; text-decoration: none;">ViRL-Lab</a>, GIST, Gwangju, South Korea. Prof: <a href="https://juhokim.com/" style="color: #7289da; text-decoration: none;">Jeany Son</a>
-- *2021.06 - 2021.08*, Undergraduate Intern at <a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">Creaty</a>, Gwangju, South Korea.
+- *2021.09 - 2022.08*, Undergraduate Research Intern at <a href="https://jeanyson.github.io/lab/" style="color: #7289da; text-decoration: none;">ViRL-Lab</a>, GIST, Gwangju, South Korea. Prof: <a href="https://jeanyson.github.io/" style="color: #7289da; text-decoration: none;">Jeany Son</a>
+- *2021.06 - 2021.08*, Undergraduate Intern at <a href="https://about:blank" style="color: #7289da; text-decoration: none;">Creaty</a>, Gwangju, South Korea.
 - *2019.04 - 2019.07*, Undergraduate Intern at <a href="https://open.shinhansec.com/new_eng/" style="color: #7289da; text-decoration: none;">Shinhan Securities</a>, FICC Team, Seoul, South Korea.
 
 <!-- # 👩‍💻 Academic Service
