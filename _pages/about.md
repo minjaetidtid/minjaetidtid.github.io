@@ -17,42 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a PhD student at <a href="https://mip.postech.ac.kr/" style="color: #7289da; text-decoration: none;">MIP Lab</a> at Pohang University of Science and Technology (POSTECH), currently advised by Prof. <a href="https://wwplato.github.io/" style="color: #7289da; text-decoration: none;">Won Hwa Kim</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="https://drive.google.com/" style="color: #7289da; text-decoration:none">CV</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My primary research interest includes:
+- Generative AI
+- Medical Imaging
+- Graph Machine Learning
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp;🎉🎉 A paper accepted to **ICLR 2025 Conference** 
+- *2024.05*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2024 Conference** (early accepted, top 11%).
+- *2023.09*: &nbsp;🎉🎉 A paper accepted to **NeurIPS 2023 Conference**
+- *2022.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **POSTECH**! 
 
 # 📝 Publications 
+- <font size="3">HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</font> 
+[[paper]](https://openreview.net/forum?id=IEul1M5pyk) \
+**Minjae Jeong** *, Yechan Hwang *, Jaejin Lee, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
+<span style="color:purple">**ICLR**</span> 2025 \
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- <font size="3">Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</font>
+[[paper]](https://papers.miccai.org/miccai-2024/809-Paper2811.html) \
+**Minjae Jeong** *, Hyuna Cho *, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
+<span style="color:purple">**MICCAI**</span> 2024
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- <font size="3">Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion</font> 
+[[paper]](https://neurips.cc/virtual/2023/poster/70356) \
+Hyuna Cho, **Minjae Jeong**, Sooyeon Jeon, Sungsoo Ahn, Won Hwa Kim \
+<span style="color:purple">**NeurIPS**</span> 2023
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
+<!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - Present*, Ph.D. in Graduate School of AI, <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>.
+- *2018.03 - 2022.08*, B.S. in Electrical Engineering and Computer Science, <a href="https://www.gist.ac.kr/en/main.html" style="color: #7289da; text-decoration: none;">GIST</a>.
 
-# 💬 Invited Talks
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *2021.09 - 2022.08*, Undergraduate Research Intern at <a href="https://jeanyson.github.io/lab/" style="color: #7289da; text-decoration: none;">ViRL-Lab</a>, GIST, Gwangju, South Korea. Prof: <a href="https://juhokim.com/" style="color: #7289da; text-decoration: none;">Jeany Son</a>
+- *2021.06 - 2021.08*, Undergraduate Intern at <a href="https://developers.naver.com/main/" style="color: #7289da; text-decoration: none;">Creaty</a>, Gwangju, South Korea.
+- *2019.04 - 2019.07*, Undergraduate Intern at <a href="https://open.shinhansec.com/new_eng/" style="color: #7289da; text-decoration: none;">Shinhan Securities</a>, FICC Team, Seoul, South Korea.
+
+<!-- # 👩‍💻 Academic Service
+- *Reviewer*: ICML (2024, 2023), NeurIPS (2023) -->
