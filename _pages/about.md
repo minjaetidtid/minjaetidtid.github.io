@@ -26,9 +26,9 @@ My primary research interest includes:
 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 A paper accepted to **ICLR 2025 Conference** 
-- *2024.05*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2024 Conference** (early accepted, top 11%).
-- *2023.09*: &nbsp;🎉🎉 A paper accepted to **NeurIPS 2023 Conference**
+- *2025.01*: &nbsp;🎉🎉 A paper accepted to **ICLR 2025** 
+- *2024.05*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2024** (early accepted, top 11%).
+- *2023.09*: &nbsp;🎉🎉 A paper accepted to **NeurIPS 2023**
 - *2022.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **POSTECH**! 
 
 # 📝 Publications 
@@ -41,7 +41,7 @@ International Conference on Learning Representations <span style="color:purple">
 - <font size="3">Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</font>
 [[paper]](https://papers.miccai.org/miccai-2024/809-Paper2811.html) \
 **Minjae Jeong** *, Hyuna Cho *, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
-Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2024 [**Provisional Accept**: ~11%]
+Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2024 [**Early Accept**: ~11%]
 
 
 - <font size="3">Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion</font> 
