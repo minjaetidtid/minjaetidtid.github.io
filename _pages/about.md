@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at <a href="https://mip.postech.ac.kr/" style="color: #7289da; text-decoration: none;">MIP Lab</a> at Pohang University of Science and Technology (POSTECH), currently advised by Prof. <a href="https://wwplato.github.io/" style="color: #7289da; text-decoration: none;">Won Hwa Kim</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="https://about:blank" style="color: #7289da; text-decoration:none">CV</a>.
+I am a PhD student at <a href="https://mip.postech.ac.kr/" style="color: #7289da; text-decoration: none;">MIP Lab</a> at Pohang University of Science and Technology (POSTECH), currently advised by Prof. <a href="https://wwplato.github.io/" style="color: #7289da; text-decoration: none;">Won Hwa Kim</a>. If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="https://www.overleaf.com/read/pymdkzbhfqmn#9a5666" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interest includes:
 - Generative AI
