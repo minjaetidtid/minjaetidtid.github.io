@@ -66,5 +66,12 @@ Neural Information Processing Systems <span style="color:purple">**(NeurIPS)**</
 - *2021.06 - 2021.08*, Undergraduate Intern at <a href="https://about:blank" style="color: #7289da; text-decoration: none;">Creaty</a>, Gwangju, South Korea.
 - *2019.04 - 2019.07*, Undergraduate Intern at <a href="https://open.shinhansec.com/new_eng/" style="color: #7289da; text-decoration: none;">Shinhan Securities</a>, FICC Team, Seoul, South Korea.
 
+# 💻 Teaching Experience
+- *2024.08 - 2024.12*, Teaching Assistant for Programming & Problem solving (CSED101) at <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>, Pohang, Republic of Korea.
+- *2023.06*, Teaching Assistant for AI & Big Data Academy at <a href="https://www.posco.co.kr/homepage/docs/eng7/jsp/s91a0000001i.jsp" style="color: #7289da; text-decoration: none;">POSCO</a>, Pohang, Republic of Korea.
+- *2023.02 - 2023.06*, Teaching Assistant for Data Structure class (CSE/CSED233) at <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>, Pohang, Republic of Korea.
+- *2022.03 - 2022.06*, Teaching Assistant for Object-Oriented Programming class (EECS/GS2408) at <a href="https://www.gist.ac.kr/en/main.html" style="color: #7289da; text-decoration: none;">GIST</a>, Gwangju, Republic of Korea.
+- *2021.09 - 2021.12*, Teaching Assistant for Computer programming class (EECS/GS1401) at <a href="https://www.gist.ac.kr/en/main.html" style="color: #7289da; text-decoration: none;">GIST</a>, Gwangju, Republic of Korea.
+
 <!-- # 👩‍💻 Academic Service
 - *Reviewer*: ICML (2024, 2023), NeurIPS (2023) -->
