@@ -26,12 +26,18 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2025** (early accepted, top 9%).
 - *2025.01*: &nbsp;🎉🎉 A paper accepted to **ICLR 2025** 
 - *2024.05*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2024** (early accepted, top 11%).
 - *2023.09*: &nbsp;🎉🎉 A paper accepted to **NeurIPS 2023**
 - *2022.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **POSTECH**! 
 
 # 📝 Publications 
+- <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
+[[paper]](https://about:blank) \
+Seunghun Baek, Jaejin Lee, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim \
+Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2025 [**Early Accept**: ~9%]
+
 - <font size="3">HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</font> 
 [[paper]](https://openreview.net/forum?id=IEul1M5pyk) \
 **Minjae Jeong** *, Yechan Hwang *, Jaejin Lee, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
