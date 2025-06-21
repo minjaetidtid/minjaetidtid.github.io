@@ -39,7 +39,7 @@ Seunghun Baek, Jaejin Lee, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim \
 Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2025 [**Early Accept**: ~9%]
 
 - <font size="3">HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</font> 
-[[paper]](https://openreview.net/forum?id=IEul1M5pyk) \
+[[paper]](https://iclr.cc/virtual/2025/poster/30181) \
 **Minjae Jeong** *, Yechan Hwang *, Jaejin Lee, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
 International Conference on Learning Representations <span style="color:purple">**(ICLR)**</span> 2025
 
