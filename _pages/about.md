@@ -33,8 +33,18 @@ My primary research interest includes:
 - *2022.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **POSTECH**! 
 
 # 📝 Publications 
-- <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
+- <font size="3">Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</font> 
 [[paper]](https://about:blank) \
+Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim (\*: equal contribution) \
+Under review
+
+- <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
+[[paper]](https://about:blank) \
+Yechan Hwang *, **Minjae Jeong** *, Jaeyoon Sim, Won Hwa Kim (\*: equal contribution) \
+Under review
+
+- <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
+[[paper]](https://papers.miccai.org/miccai-2025/0574-Paper0365.html) \
 Seunghun Baek, Jaejin Lee, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim \
 Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2025 [**Early Accept**: ~9%]
 
