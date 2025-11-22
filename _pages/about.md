@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎊🎊 Won the POSTECHIAN Fellowship.
 - *2025.06*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2025** (early accepted, top 9%).
 - *2025.01*: &nbsp;🎉🎉 A paper accepted to **ICLR 2025** 
 - *2024.05*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2024** (early accepted, top 11%).
