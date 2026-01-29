@@ -44,7 +44,7 @@ Under review
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
 [[paper]](https://about:blank) \
 Yechan Hwang *, **Minjae Jeong** *, Jaeyoon Sim, Won Hwa Kim (\*: equal contribution) \
-Under review
+Under review [Bronze prize at 32th Samsung Humantech Paper Award]
 
 - <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
 [[paper]](https://papers.miccai.org/miccai-2025/0574-Paper0365.html) \
@@ -54,7 +54,7 @@ Medical Image Computing and Computer Assisted Intervention <span style="color:pu
 - <font size="3">HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</font> 
 [[paper]](https://iclr.cc/virtual/2025/poster/30181) \
 **Minjae Jeong** *, Yechan Hwang *, Jaejin Lee, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
-International Conference on Learning Representations <span style="color:purple">**(ICLR)**</span> 2025
+International Conference on Learning Representations <span style="color:purple">**(ICLR)**</span> 2025 [Excellence paper award from the Graduate School of AI, POSTECH]
 
 
 - <font size="3">Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</font>
