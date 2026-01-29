@@ -26,7 +26,8 @@ My primary research interest includes:
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎊🎊 I won the Excellence paper award from the Graduate School of AI, POSTECH.
+- *2026.02*: &nbsp;🎊🎊 Won the Bronze prize in Samsung Humantech Paper Award.
+- *2026.01*: &nbsp;🎊🎊 Won the Excellence paper award from the Graduate School of AI, POSTECH.
 - *2025.11*: &nbsp;🎊🎊 Won the POSTECHIAN Fellowship.
 - *2025.06*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2025** (early accepted, top 9%).
 - *2025.01*: &nbsp;🎉🎉 A paper accepted to **ICLR 2025** 
