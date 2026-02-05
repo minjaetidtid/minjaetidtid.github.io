@@ -40,7 +40,7 @@ My primary research interest includes:
 - <font size="3">Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</font> 
 [[paper]](https://about:blank) \
 Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim (\*: equal contribution) \
-Under review
+Under review \
 [Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)]
 
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
