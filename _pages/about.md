@@ -27,6 +27,7 @@ My primary research interest includes:
 
 # 🔥 News
 - *2026.02*: &nbsp;🎊🎊 Won the Bronze prize in Samsung Humantech Paper Award.
+- *2026.02*: &nbsp;🎊🎊 Won the Silver prize in 38th Workshop on Image Processing and Image Understanding (IPIU).
 - *2026.01*: &nbsp;🎊🎊 Won the Excellence paper award from the Graduate School of AI, POSTECH.
 - *2025.11*: &nbsp;🎊🎊 Won the POSTECHIAN Fellowship.
 - *2025.06*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2025** (early accepted, top 9%).
@@ -40,6 +41,7 @@ My primary research interest includes:
 [[paper]](https://about:blank) \
 Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim (\*: equal contribution) \
 Under review
+[Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)]
 
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
 [[paper]](https://about:blank) \
