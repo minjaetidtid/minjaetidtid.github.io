@@ -60,7 +60,7 @@ Under review \
 
 - <font size="3">Residual-Guided Expert Specialization for Incomplete Multimodal Learning</font> 
 [[paper]](https://about:blank) \
-Seunghun Baek, Jihwan Park, Jaeyoon Sim, **Minjae Jeong**, Hoseok Lee, Won Hwa Kim 
+Seunghun Baek, Jihwan Park, Jaeyoon Sim, **Minjae Jeong**, Hoseok Lee, Won Hwa Kim  \
 Under review
 
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
