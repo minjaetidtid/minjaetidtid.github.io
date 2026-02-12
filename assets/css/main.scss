@@ -108,8 +108,14 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.highlight-yellow {
-  background-color: #fff5b1;
+/* ===== Highlight Colors ===== */
+
+mark {
   padding: 2px 6px;
   border-radius: 4px;
 }
+
+mark.yellow { background-color: #fff5b1; }
+mark.purple { background-color: #e6dcff; }
+mark.green  { background-color: #d4f5d0; }
+mark.pink   { background-color: #ffd6e7; }
