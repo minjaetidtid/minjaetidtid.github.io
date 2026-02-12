@@ -40,12 +40,12 @@ My primary research interest includes:
 - <font size="3">SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</font> 
 [[paper]](https://about:blank) \
 **Minjae Jeong** *, Jaejin Lee *, Yechan Hwang, Won Hwa Kim (\*: equal contribution) \
-Under review \
+Under review
 
 - <font size="3">Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</font> 
 [[paper]](https://about:blank) \
 **Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
-Under review \
+Under review
 
 - <font size="3">Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</font> 
 [[paper]](https://about:blank) \
