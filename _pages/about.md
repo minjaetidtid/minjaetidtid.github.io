@@ -97,5 +97,5 @@ Neural Information Processing Systems <span style="color:purple">**(NeurIPS)**</
 - *2022.03 - 2022.06*, Teaching Assistant for Object-Oriented Programming class (EECS/GS2408) at <a href="https://www.gist.ac.kr/en/main.html" style="color: #7289da; text-decoration: none;">GIST</a>, Gwangju, Republic of Korea.
 - *2021.09 - 2021.12*, Teaching Assistant for Computer programming class (EECS/GS1401) at <a href="https://www.gist.ac.kr/en/main.html" style="color: #7289da; text-decoration: none;">GIST</a>, Gwangju, Republic of Korea.
 
-<!-- # 👩‍💻 Academic Service
-- *Reviewer*: ICML (2024, 2023), NeurIPS (2023) -->
+# 👩‍💻 Academic Service
+- *Reviewer*: CVPR (2026), ECCV (2026) -->
