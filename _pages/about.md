@@ -48,7 +48,7 @@ Under review \
 [[paper]](https://about:blank) \
 Yechan Hwang *, **Minjae Jeong** *, Jaeyoon Sim, Won Hwa Kim (\*: equal contribution) \
 Under review \
-<mark>Bronze prize at 32th Samsung Humantech Paper Award</mark>
+<mark>**Bronze prize at 32th Samsung Humantech Paper Award**</mark>
 
 - <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
 [[paper]](https://papers.miccai.org/miccai-2025/0574-Paper0365.html) \
@@ -59,7 +59,7 @@ Medical Image Computing and Computer Assisted Intervention <span style="color:pu
 [[paper]](https://iclr.cc/virtual/2025/poster/30181) \
 **Minjae Jeong** *, Yechan Hwang *, Jaejin Lee, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
 International Conference on Learning Representations <span style="color:purple">**(ICLR)**</span> 2025 \
-<mark>Excellence paper award from the Graduate School of AI, POSTECH</mark>
+<mark>**Excellence paper award from the Graduate School of AI, POSTECH**</mark>
 
 
 - <font size="3">Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</font>
