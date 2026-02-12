@@ -36,7 +36,17 @@ My primary research interest includes:
 - *2023.09*: &nbsp;🎉🎉 A paper accepted to **NeurIPS 2023**
 - *2022.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **POSTECH**! 
 
-# 📝 Publications 
+# 📝 Publications
+- <font size="3">SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</font> 
+[[paper]](https://about:blank) \
+**Minjae Jeong** *, Jaejin Lee *, Yechan Hwang, Won Hwa Kim (\*: equal contribution) \
+Under review \
+
+- <font size="3">Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</font> 
+[[paper]](https://about:blank) \
+**Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
+Under review \
+
 - <font size="3">Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</font> 
 [[paper]](https://about:blank) \
 Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim (\*: equal contribution) \
