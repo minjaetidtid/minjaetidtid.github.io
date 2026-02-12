@@ -41,14 +41,13 @@ My primary research interest includes:
 [[paper]](https://about:blank) \
 Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim (\*: equal contribution) \
 Under review \
-<span style='background-color: #fff5b1'>노란형광펜스</span>
+<span style='background-color: #fff5b1'>노란형광펜</span>
 [Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)]
 
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
 [[paper]](https://about:blank) \
 Yechan Hwang *, **Minjae Jeong** *, Jaeyoon Sim, Won Hwa Kim (\*: equal contribution) \
 Under review \
-<span
 [Bronze prize at 32th Samsung Humantech Paper Award]
 
 - <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
