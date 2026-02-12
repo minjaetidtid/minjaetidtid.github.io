@@ -41,7 +41,7 @@ My primary research interest includes:
 [[paper]](https://about:blank) \
 Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim (\*: equal contribution) \
 Under review \
-<mark>Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
+<mark>**Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)**</mark>
 <mark class="purple">Under Review</mark>
 
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
