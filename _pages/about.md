@@ -41,33 +41,31 @@ My primary research interest includes:
 [[paper]](https://about:blank) \
 Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim (\*: equal contribution) \
 Under review \
-<mark>[Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)]</mark>
+<mark>Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
 <mark class="purple">Under Review</mark>
 
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
 [[paper]](https://about:blank) \
 Yechan Hwang *, **Minjae Jeong** *, Jaeyoon Sim, Won Hwa Kim (\*: equal contribution) \
 Under review \
-[Bronze prize at 32th Samsung Humantech Paper Award]
+<mark>Bronze prize at 32th Samsung Humantech Paper Award</mark>
 
 - <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
 [[paper]](https://papers.miccai.org/miccai-2025/0574-Paper0365.html) \
 Seunghun Baek, Jaejin Lee, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim \
-Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2025 \
-[**Early Accept**: ~9%]
+Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2025 [**Early Accept**: ~9%]
 
 - <font size="3">HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</font> 
 [[paper]](https://iclr.cc/virtual/2025/poster/30181) \
 **Minjae Jeong** *, Yechan Hwang *, Jaejin Lee, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
 International Conference on Learning Representations <span style="color:purple">**(ICLR)**</span> 2025 \
-[Excellence paper award from the Graduate School of AI, POSTECH]
+<mark>Excellence paper award from the Graduate School of AI, POSTECH</mark>
 
 
 - <font size="3">Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</font>
 [[paper]](https://papers.miccai.org/miccai-2024/809-Paper2811.html) \
 **Minjae Jeong** *, Hyuna Cho *, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
-Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2024 \
-[**Early Accept**: ~11%]
+Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2024 [**Early Accept**: ~11%]
 
 
 - <font size="3">Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion</font> 
