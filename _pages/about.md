@@ -37,7 +37,7 @@ My primary research interest includes:
 - *2022.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **POSTECH**! 
 
 # 📝 Publications
-- <font size="3">SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</font> 
+<!--#- <font size="3">SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</font> 
 [[paper]](https://about:blank) \
 **Minjae Jeong** *, Jaejin Lee *, Yechan Hwang, Won Hwa Kim (\*: equal contribution) \
 Under review
@@ -50,7 +50,7 @@ Under review
 - <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Weighted Rewiring with Biological Gating</font> 
 [[paper]](https://about:blank) \
 Yechan Hwang, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim (\*: equal contribution) \
-Under review
+Under review-->
 
 - <font size="3">Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</font> 
 [[paper]](https://about:blank) \
@@ -58,10 +58,10 @@ Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Wo
 Under review \
 <mark class="purple">Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
 
-- <font size="3">Residual-Guided Expert Specialization for Incomplete Multimodal Learning</font> 
+<!--#- <font size="3">Residual-Guided Expert Specialization for Incomplete Multimodal Learning</font> 
 [[paper]](https://about:blank) \
 Seunghun Baek, Jihwan Park, Jaeyoon Sim, **Minjae Jeong**, Hoseok Lee, Won Hwa Kim  \
-Under review
+Under review-->
 
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
 [[paper]](https://about:blank) \
