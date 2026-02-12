@@ -47,6 +47,11 @@ Under review
 **Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
 Under review
 
+- <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Weighted Rewiring with Biological Gating</font> 
+[[paper]](https://about:blank) \
+Yechan Hwang, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim (\*: equal contribution) \
+Under review
+
 - <font size="3">Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</font> 
 [[paper]](https://about:blank) \
 Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim (\*: equal contribution) \
