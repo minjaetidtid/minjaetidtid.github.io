@@ -118,4 +118,4 @@ Neural Information Processing Systems <span style="color:purple">**(NeurIPS)**</
 - *2021.09 - 2021.12*, Teaching Assistant for Computer programming class (EECS/GS1401) at <a href="https://www.gist.ac.kr/en/main.html" style="color: #7289da; text-decoration: none;">GIST</a>, Gwangju, Republic of Korea.
 
 # 👩‍💻 Academic Service
-- *Reviewer*: CVPR (2026), ECCV (2026)
+- *Reviewer*: CVPR (2026), ECCV (2026), MICCAI (2026), ICLR RSI Workshop (2026)
