@@ -45,7 +45,7 @@ Under review
 
 - <font size="3">Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</font> 
 [[paper]](https://about:blank) \
-**Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
+**Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim \
 Under review
 
 - <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Weighted Rewiring with Biological Gating</font> 
