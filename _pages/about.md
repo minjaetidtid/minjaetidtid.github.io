@@ -48,7 +48,7 @@ Under review
 **Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
 Under review
 
-- <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Weighted Rewiring with Biological Gating</font> 
+- <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Rewiring with Biological Gating</font> 
 [[paper]](https://about:blank) \
 Yechan Hwang, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim \
 Under review
