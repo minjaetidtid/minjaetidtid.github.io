@@ -38,7 +38,7 @@ My primary research interest includes:
 - *2022.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **POSTECH**! 
 
 # 📝 Publications
-<!--#- <font size="3">SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</font> 
+- <font size="3">SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</font> 
 [[paper]](https://about:blank) \
 **Minjae Jeong** *, Jaejin Lee *, Yechan Hwang, Won Hwa Kim (\*: equal contribution) \
 Under review
@@ -51,7 +51,7 @@ Under review
 - <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Weighted Rewiring with Biological Gating</font> 
 [[paper]](https://about:blank) \
 Yechan Hwang, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim (\*: equal contribution) \
-Under review-->
+Under review
 
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
 [[paper]](https://about:blank) \
