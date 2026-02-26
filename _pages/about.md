@@ -45,12 +45,12 @@ Under review
 
 - <font size="3">Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</font> 
 [[paper]](https://about:blank) \
-**Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim \
+**Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
 Under review
 
 - <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Weighted Rewiring with Biological Gating</font> 
 [[paper]](https://about:blank) \
-Yechan Hwang, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim (\*: equal contribution) \
+Yechan Hwang, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim \
 Under review
 
 - <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
@@ -65,10 +65,11 @@ Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Wo
 Computer Vision and Pattern Recognition Conference <span style="color:purple">**(CVPR)**</span> 2026 \
 <mark class="purple">Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
 
-<!--#- <font size="3">Residual-Guided Expert Specialization for Incomplete Multimodal Learning</font> 
+- <font size="3">Residual-Guided Expert Specialization for Incomplete Multimodal Learning</font> 
 [[paper]](https://about:blank) \
 Seunghun Baek, Jihwan Park, Jaeyoon Sim, **Minjae Jeong**, Hoseok Lee, Won Hwa Kim  \
-Under review-->
+Under review \
+<mark class="purple">Bronze prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
 
 - <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
 [[paper]](https://papers.miccai.org/miccai-2025/0574-Paper0365.html) \
