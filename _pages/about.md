@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2026** (early accepted, top 9%).
 - *2026.02*: &nbsp;🎉🎉 A paper accepted to **CVPR 2026** 
 - *2026.02*: &nbsp;🎊🎊 Won the Bronze prize in Samsung Humantech Paper Award.
 - *2026.02*: &nbsp;🎊🎊 Won the Silver prize in 38th Workshop on Image Processing and Image Understanding (IPIU).
@@ -46,7 +47,7 @@ Under review
 - <font size="3">Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</font> 
 [[paper]](https://about:blank) \
 **Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
-Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2027 [**Early Accept**: ~11%]
+Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2026 [**Early Accept**: ~11%]
 
 - <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Rewiring with Biological Gating</font> 
 [[paper]](https://about:blank) \
