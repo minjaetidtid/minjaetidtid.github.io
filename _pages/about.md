@@ -43,7 +43,7 @@ My primary research interest includes:
 <table style="border-collapse:collapse; border:none; width:100%;">
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:1px solid #444;border-radius:10px;">
         <img src="/assets/css/guardflow.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
@@ -54,9 +54,10 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
+
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:1px solid #444;border-radius:10px;">
         <img src="/assets/css/TopoGIP.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
