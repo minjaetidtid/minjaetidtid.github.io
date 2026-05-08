@@ -198,7 +198,7 @@ Under review \
 <mark class="purple">Bronze prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
 -->
 
-
+<!--#
 - <font size="3">Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</font>
 [[paper]](https://papers.miccai.org/miccai-2024/809-Paper2811.html) \
 **Minjae Jeong** *, Hyuna Cho *, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
@@ -209,7 +209,7 @@ Medical Image Computing and Computer Assisted Intervention <span style="color:pu
 [[paper]](https://neurips.cc/virtual/2023/poster/70356) \
 Hyuna Cho, **Minjae Jeong**, Sooyeon Jeon, Sungsoo Ahn, Won Hwa Kim \
 Neural Information Processing Systems <span style="color:purple">**(NeurIPS)**</span> 2023
-
+-->
 <!--# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
