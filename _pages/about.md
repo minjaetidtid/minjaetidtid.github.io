@@ -54,7 +54,7 @@ My primary research interest includes:
   </tr>
     <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <img src="/assets/imgs/narrative_teaser.png" width="260">
+      <img src="/assets/css/guardflow.pdf" width="260">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>TopoGIP: Topology-Aware Graph-Image Pre-training for Lithography Hotspot Detection</strong><br/>
