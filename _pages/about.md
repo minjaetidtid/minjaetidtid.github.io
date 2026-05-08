@@ -120,7 +120,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</strong><br/>
-      <a href="https://about:blank">[paper]</a><br/>
+      <a href="https://cvpr.thecvf.com/virtual/2026/poster/38368">[paper]</a><br/>
       Jaejin Lee*, <strong>Minjae Jeong</strong>*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim<em>(* equal contribution)</em><br/>
       <span style="color:purple">CVPR 2026</span><br/>
       <mark class="purple">Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
@@ -144,7 +144,7 @@ My primary research interest includes:
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
-        <img src="/assets/css/Mark4D.png" style="width:260px;height:auto;display:block;">
+        <img src="/assets/css/HGM3.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
@@ -169,17 +169,6 @@ Seunghun Baek, Jihwan Park, Jaeyoon Sim, **Minjae Jeong**, Hoseok Lee, Won Hwa K
 Under review \
 <mark class="purple">Bronze prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
 -->
-
-- <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
-[[paper]](https://papers.miccai.org/miccai-2025/0574-Paper0365.html) \
-Seunghun Baek, Jaejin Lee, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim \
-Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2025 [**Early Accept**: ~9%]
-
-- <font size="3">HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</font> 
-[[paper]](https://iclr.cc/virtual/2025/poster/30181) \
-**Minjae Jeong** *, Yechan Hwang *, Jaejin Lee, Sungyoon Jung, Won Hwa Kim (\*: equal contribution) \
-International Conference on Learning Representations <span style="color:purple">**(ICLR)**</span> 2025 \
-<mark class="purple">Excellence paper award from the Graduate School of AI, POSTECH</mark>
 
 
 - <font size="3">Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</font>
