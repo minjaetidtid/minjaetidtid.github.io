@@ -49,7 +49,7 @@ My primary research interest includes:
       <strong>NarrativeTrack: Evaluating Video Language Models Beyond the Frame</strong><br/>
       <a href="https://arxiv.org/abs/2601.01095">[paper]</a>  
       <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
-      <strong>Seungjoo Lee*, <strong>Minjae Jeong</strong>*, Jaejin Lee, Won Hwa Kim <em>(* equal contribution)</em><br/>
+      Seungjoo Lee*, <strong>Minjae Jeong</strong>*, Jaejin Lee, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
