@@ -127,6 +127,34 @@ My primary research interest includes:
     </td>
   </tr>
 
+ <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
+        <img src="/assets/css/MNM.png" style="width:260px;height:auto;display:block;">
+      </div>
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</strong><br/>
+      <a href="https://papers.miccai.org/miccai-2025/0574-Paper0365.html">[paper]</a><br/>
+      Seunghun Baek, Jaejin Lee, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Won Hwa Kim<em>(* equal contribution)</em><br/>
+      <span style="color:purple">MICCAI 2025</span> <span style="color:red">(Early Accept: ~9%)</span>
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
+        <img src="/assets/css/Mark4D.png" style="width:260px;height:auto;display:block;">
+      </div>
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</strong><br/>
+      <a href="https://iclr.cc/virtual/2025/poster/30181">[paper]</a><br/>
+      <strong>Minjae Jeong</strong>*, Yechan Hwang*, Jaejin Lee, Sungyoon Jung, Won Hwa Kim<em>(* equal contribution)</em><br/>
+      <span style="color:purple">ICLR 2025</span><br/>
+      <mark class="purple">Excellence paper award from the Graduate School of AI, POSTECH</mark>
+    </td>
+  </tr>
 </table>
 
 <!--#
@@ -134,19 +162,13 @@ My primary research interest includes:
 [[paper]](https://about:blank) \
 Yechan Hwang, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim \
 Under review
--->
-
-- <font size="3">Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</font> 
-[[paper]](https://about:blank) \
-Jaejin Lee *, **Minjae Jeong** *, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim (\*: equal contribution) \
-Computer Vision and Pattern Recognition Conference <span style="color:purple">**(CVPR)**</span> 2026 \
-<mark class="purple">Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
 
 - <font size="3">Residual-Guided Expert Specialization for Incomplete Multimodal Learning</font> 
 [[paper]](https://about:blank) \
 Seunghun Baek, Jihwan Park, Jaeyoon Sim, **Minjae Jeong**, Hoseok Lee, Won Hwa Kim  \
 Under review \
 <mark class="purple">Bronze prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
+-->
 
 - <font size="3">MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</font> 
 [[paper]](https://papers.miccai.org/miccai-2025/0574-Paper0365.html) \
