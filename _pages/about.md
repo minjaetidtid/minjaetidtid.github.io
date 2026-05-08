@@ -136,7 +136,7 @@ My primary research interest includes:
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</strong><br/>
       <a href="https://papers.miccai.org/miccai-2025/0574-Paper0365.html">[paper]</a><br/>
-      Seunghun Baek, Jaejin Lee, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Won Hwa Kim <em>(* equal contribution)</em><br/>
+      Seunghun Baek, Jaejin Lee, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Won Hwa Kim<br/>
       <span style="color:purple">MICCAI 2025</span> <span style="color:red">(Early Accept: ~9%)</span>
     </td>
   </tr>
@@ -153,6 +153,34 @@ My primary research interest includes:
       <strong>Minjae Jeong</strong>*, Yechan Hwang*, Jaejin Lee, Sungyoon Jung, Won Hwa Kim<em>(* equal contribution)</em><br/>
       <span style="color:purple">ICLR 2025</span><br/>
       <mark class="purple">Excellence paper award from the Graduate School of AI, POSTECH</mark>
+    </td>
+  </tr>
+
+ <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
+        <img src="/assets/css/DASP.png" style="width:260px;height:auto;display:block;">
+      </div>
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</strong><br/>
+      <a href="https://papers.miccai.org/miccai-2024/809-Paper2811.html">[paper]</a><br/>
+      <strong>Minjae Jeong</strong>*, Hyuna Cho*, Sungyoon Jung, Won Hwa Kim <em>(* equal contribution)</em><br/>
+      <span style="color:purple">MICCAI 2024</span> <span style="color:red">(Early Accept: ~11%)</span>
+    </td>
+  </tr>
+
+ <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
+        <img src="/assets/css/WaveGD.png" style="width:260px;height:auto;display:block;">
+      </div>
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion</strong><br/>
+      <a href="https://neurips.cc/virtual/2023/poster/70356">[paper]</a><br/>
+      Seunghun Baek, Jaejin Lee, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Won Hwa Kim<br/>
+      <span style="color:purple">NeurIPS 2023</span>
     </td>
   </tr>
 </table>
