@@ -45,7 +45,7 @@ My primary research interest includes:
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/css/guardflow.png" width="260">
     </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+    <td style="width:260px;height:150px;object-fit:contain;background:white;border-radius:10px;">
       <strong>GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing</strong><br/>
       <a href="https://about:blank">[paper]</a><br/>
       Seungjoo Lee*, <strong>Minjae Jeong</strong>*, Jaejin Lee, Won Hwa Kim <em>(* equal contribution)</em><br/>
