@@ -150,7 +150,7 @@ My primary research interest includes:
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</strong><br/>
       <a href="https://iclr.cc/virtual/2025/poster/30181">[paper]</a><br/>
-      <strong>Minjae Jeong</strong>*, Yechan Hwang*, Jaejin Lee, Sungyoon Jung, Won Hwa Kim<em>(* equal contribution)</em><br/>
+      <strong>Minjae Jeong</strong>*, Yechan Hwang*, Jaejin Lee, Sungyoon Jung, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">ICLR 2025</span><br/>
       <mark class="purple">Excellence paper award from the Graduate School of AI, POSTECH</mark>
     </td>
