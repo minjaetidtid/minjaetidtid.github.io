@@ -33,12 +33,28 @@ My primary research interest includes:
 - *2026.01*: &nbsp;🎊🎊 Won the Excellence paper award from the Graduate School of AI, POSTECH.
 - *2025.11*: &nbsp;🎊🎊 Won the POSTECHIAN Fellowship.
 - *2025.06*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2025** (early accepted, top 9%).
-- *2025.01*: &nbsp;🎉🎉 A paper accepted to **ICLR 2025** 
+- *2025.01*: &nbsp;🎉🎉 A paper accepted to **ICLR 2025**
+- *2024.05*: &nbsp;🤘🤘 Passed Qual Exam! Now, I'm a **Ph.D Candidate**!
 - *2024.05*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2024** (early accepted, top 11%).
 - *2023.09*: &nbsp;🎉🎉 A paper accepted to **NeurIPS 2023**
 - *2022.08*: &nbsp;🤘🤘 Excited to start my Ph.D. program at **POSTECH**! 
 
 # 📝 Publications
+<table style="border-collapse:collapse; border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/narrative_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>NarrativeTrack: Evaluating Video Language Models Beyond the Frame</strong><br/>
+      <a href="https://arxiv.org/abs/2601.01095">[paper]</a>  
+      <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
+      <strong>Hyeonjeong Ha</strong>, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
+      <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr>
+</table>
+
 - <font size="3">GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing</font> 
 [[paper]](https://about:blank) \
 Seungjoo Lee *, **Minjae Jeong** *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
