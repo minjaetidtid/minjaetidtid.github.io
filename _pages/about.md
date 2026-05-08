@@ -53,6 +53,18 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
+    <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/narrative_teaser.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>NarrativeTrack: Evaluating Video Language Models Beyond the Frame</strong><br/>
+      <a href="https://arxiv.org/abs/2601.01095">[paper]</a>  
+      <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
+      <strong>Hyeonjeong Ha</strong>, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
+      <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr>
 </table>
 
 - <font size="3">GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing</font> 
