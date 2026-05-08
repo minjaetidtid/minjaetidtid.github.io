@@ -42,10 +42,10 @@ My primary research interest includes:
 # 📝 Publications
 <table style="border-collapse:collapse; border:none; width:100%;">
   <tr style="border:none;">
-    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <img src="/assets/css/guardflow.png" style="width:260px;height:150px;object-fit:contain;background:white;border-radius:10px;">
     </td>
-    <td style="width:260px;height:150px;object-fit:contain;background:white;border-radius:10px;">
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing</strong><br/>
       <a href="https://about:blank">[paper]</a><br/>
       Seungjoo Lee*, <strong>Minjae Jeong</strong>*, Jaejin Lee, Won Hwa Kim <em>(* equal contribution)</em><br/>
