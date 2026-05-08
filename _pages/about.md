@@ -111,19 +111,30 @@ My primary research interest includes:
       <span style="color:purple">MICCAI 2026</span> <span style="color:red">(Early Accept: ~9%)</span>
     </td>
   </tr>
+  
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
+        <img src="/assets/css/Mark4D.png" style="width:260px;height:auto;display:block;">
+      </div>
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</strong><br/>
+      <a href="https://about:blank">[paper]</a><br/>
+      Jaejin Lee*, <strong>Minjae Jeong</strong>*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim<em>(* equal contribution)</em><br/>
+      <span style="color:purple">CVPR 2026</span><br/>
+      <mark class="purple">Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
+    </td>
+  </tr>
 
 </table>
 
+<!--#
 - <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Rewiring with Biological Gating</font> 
 [[paper]](https://about:blank) \
 Yechan Hwang, Jaeyoon Sim, **Minjae Jeong**, Won Hwa Kim \
 Under review
-
-- <font size="3">Mixture of Spectral Wavelets on Simplicial Complex: Analysis of Brain Connectome with Neurodegeneration</font> 
-[[paper]](https://about:blank) \
-Yechan Hwang *, **Minjae Jeong** *, Jaeyoon Sim, Won Hwa Kim (\*: equal contribution) \
-Under review \
-<mark class="purple">Bronze prize at 32th Samsung Humantech Paper Award</mark>
+-->
 
 - <font size="3">Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</font> 
 [[paper]](https://about:blank) \
