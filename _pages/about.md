@@ -68,6 +68,20 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
+
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:1px solid #444;border-radius:10px;">
+        <img src="/assets/css/hi.png" style="width:260px;height:auto;display:block;">
+      </div>
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</strong><br/>
+      <a href="https://about:blank">[paper]</a><br/>
+      <strong>Minjae Jeong</strong>*, Jaejin Lee*, Yechan Hwang, Won Hwa Kim <em>(* equal contribution)</em><br/>
+      <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr>
 </table>
 
 - <font size="3">SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</font> 
