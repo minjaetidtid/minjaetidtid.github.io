@@ -47,7 +47,7 @@ Under review
 - <font size="3">Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</font> 
 [[paper]](https://about:blank) \
 **Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
-Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2026 [**Early Accept**: ~11%]
+Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2026 [**Early Accept**: ~9%]
 
 - <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Rewiring with Biological Gating</font> 
 [[paper]](https://about:blank) \
