@@ -43,7 +43,7 @@ My primary research interest includes:
 <table style="border-collapse:collapse; border:none; width:100%;">
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:5px;">
         <img src="/assets/css/guardflow.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
@@ -57,7 +57,7 @@ My primary research interest includes:
 
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:3px;">
         <img src="/assets/css/TopoGIP.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
@@ -68,53 +68,10 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
+  
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;">
-        <img src="/assets/css/hi.png" style="width:260px;height:auto;display:block;">
-      </div>
-    </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
-      <strong>SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</strong><br/>
-      <a href="https://about:blank">[paper]</a><br/>
-      <strong>Minjae Jeong</strong>*, Jaejin Lee*, Yechan Hwang, Won Hwa Kim <em>(* equal contribution)</em><br/>
-      <span style="color:purple">UnderReview</span> 
-    </td>
-  </tr>
-</table>
-
-<table style="border-collapse:collapse; border:none; width:100%;">
-  <tr style="border:none;">
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:1px solid #444;border-radius:10px;">
-        <img src="/assets/css/guardflow.png" style="width:260px;height:auto;display:block;">
-      </div>
-    </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
-      <strong>GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing</strong><br/>
-      <a href="https://about:blank">[paper]</a><br/>
-      Seungjoo Lee*, <strong>Minjae Jeong</strong>*, Jaejin Lee, Won Hwa Kim <em>(* equal contribution)</em><br/>
-      <span style="color:purple">UnderReview</span> 
-    </td>
-  </tr>
-
-  <tr style="border:none;">
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:1px solid #444;border-radius:10px;">
-        <img src="/assets/css/TopoGIP.png" style="width:260px;height:auto;display:block;">
-      </div>
-    </td>
-    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
-      <strong>TopoGIP: Topology-Aware Graph-Image Pre-training for Lithography Hotspot Detection</strong><br/>
-      <a href="https://about:blank">[paper]</a><br/>
-      Jaejin Lee*, Yechan Hwang*, <strong>Minjae Jeong</strong>*, Won Hwa Kim <em>(* equal contribution)</em><br/>
-      <span style="color:purple">UnderReview</span> 
-    </td>
-  </tr>
-
-  <tr style="border:none;">
-    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:1px solid #444;border-radius:10px;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:10px;">
         <img src="/assets/css/hi.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
