@@ -121,7 +121,7 @@ My primary research interest includes:
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</strong><br/>
       <a href="https://cvpr.thecvf.com/virtual/2026/poster/38368">[paper]</a><br/>
-      Jaejin Lee*, <strong>Minjae Jeong</strong>*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim<em>(* equal contribution)</em><br/>
+      Jaejin Lee*, <strong>Minjae Jeong</strong>*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">CVPR 2026</span><br/>
       <mark class="purple">Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
     </td>
@@ -136,7 +136,7 @@ My primary research interest includes:
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</strong><br/>
       <a href="https://papers.miccai.org/miccai-2025/0574-Paper0365.html">[paper]</a><br/>
-      Seunghun Baek, Jaejin Lee, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Won Hwa Kim<em>(* equal contribution)</em><br/>
+      Seunghun Baek, Jaejin Lee, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">MICCAI 2025</span> <span style="color:red">(Early Accept: ~9%)</span>
     </td>
   </tr>
