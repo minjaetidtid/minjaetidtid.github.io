@@ -179,7 +179,7 @@ My primary research interest includes:
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Multi-resolution Spectral Coherence for Graph Generation with Score-based Diffusion</strong><br/>
       <a href="https://neurips.cc/virtual/2023/poster/70356">[paper]</a><br/>
-      Seunghun Baek, Jaejin Lee, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Won Hwa Kim<br/>
+      Hyuna Cho, <strong>Minjae Jeong</strong>, Sooyeon Jeon, Sungsoo Ahn, Won Hwa Kim<br/>
       <span style="color:purple">NeurIPS 2023</span>
     </td>
   </tr>
