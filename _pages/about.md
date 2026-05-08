@@ -43,7 +43,7 @@ My primary research interest includes:
 <table style="border-collapse:collapse; border:none; width:100%;">
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:5px;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:6px;">
         <img src="/assets/css/guardflow.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
@@ -57,7 +57,7 @@ My primary research interest includes:
 
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
-      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:3px;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
         <img src="/assets/css/TopoGIP.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
@@ -90,7 +90,7 @@ My primary research interest includes:
       </div>
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
-      <strong>SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</strong><br/>
+      <strong>Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</strong><br/>
       <a href="https://about:blank">[paper]</a><br/>
       <strong>Minjae Jeong</strong>*, Seungjoo Lee*, Jaejin Lee, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">MICCAI 2026</span> <span style="color:red">(Early Accept: ~9%)</span>
@@ -98,11 +98,6 @@ My primary research interest includes:
   </tr>
   
 </table>
-
-- <font size="3">Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</font> 
-[[paper]](https://about:blank) \
-**Minjae Jeong** *, Seungjoo Lee *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
-Medical Image Computing and Computer Assisted Intervention <span style="color:purple">**(MICCAI)**</span> 2026 [**Early Accept**: ~9%]
 
 - <font size="3">Mitigating Over-Squashing in Brain Networks: Curvature-Adaptive Rewiring with Biological Gating</font> 
 [[paper]](https://about:blank) \
