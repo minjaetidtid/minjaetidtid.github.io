@@ -49,7 +49,7 @@ My primary research interest includes:
       <strong>NarrativeTrack: Evaluating Video Language Models Beyond the Frame</strong><br/>
       <a href="https://arxiv.org/abs/2601.01095">[paper]</a>  
       <a href="https://machinelearning.apple.com/research/narrativetrack">[Apple Blog]</a><br/>
-      <strong>Hyeonjeong Ha</strong>, Jinjin Ge, Bo Feng, Kaixin Ma, Gargi Chakraborty<br/>
+      <strong>Seungjoo Lee*, <strong>Minjae Jeong</strong>*, Jaejin Lee, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
@@ -68,8 +68,7 @@ My primary research interest includes:
 </table>
 
 - <font size="3">GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing</font> 
-[[paper]](https://about:blank) \
-Seungjoo Lee *, **Minjae Jeong** *, Jaejin Lee, Won Hwa Kim (\*: equal contribution) \
+[[paper]](https://about:blank) \ 
 Under review
 
 - <font size="3">TopoGIP: Topology-Aware Graph-Image Pre-training for Lithography Hotspot Detection</font> 
