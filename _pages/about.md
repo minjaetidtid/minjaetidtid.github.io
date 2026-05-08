@@ -53,10 +53,10 @@ My primary research interest includes:
     </td>
   </tr>
     <tr style="border:none;">
-    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
-      <img src="/assets/css/TopoGIP.png" width="260">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/css/TopoGIP.png" style="width:260px;height:150px;object-fit:contain;background:white;border-radius:10px;">
     </td>
-    <td style="width:260px;height:150px;object-fit:contain;background:white;border-radius:10px;">
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>TopoGIP: Topology-Aware Graph-Image Pre-training for Lithography Hotspot Detection</strong><br/>
       <a href="https://about:blank">[paper]</a><br/>
       Jaejin Lee*, Yechan Hwang*, <strong>Minjae Jeong</strong>*, Won Hwa Kim <em>(* equal contribution)</em><br/>
