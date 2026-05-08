@@ -65,15 +65,6 @@ My primary research interest includes:
   </tr>
 </table>
 
-- <font size="3">GuardFlow: Image Immunization via Trajectory Disruption against Flow-Based Image Editing</font> 
-[[paper]](https://about:blank) \ 
-Under review
-
-- <font size="3">TopoGIP: Topology-Aware Graph-Image Pre-training for Lithography Hotspot Detection</font> 
-[[paper]](https://about:blank) \
-Jaejin Lee *, Yechan Hwang *, **Minjae Jeong** *, Won Hwa Kim (\*: equal contribution) \
-Under review
-
 - <font size="3">SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</font> 
 [[paper]](https://about:blank) \
 **Minjae Jeong** *, Jaejin Lee *, Yechan Hwang, Won Hwa Kim (\*: equal contribution) \
