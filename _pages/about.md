@@ -26,7 +26,8 @@ My primary research interest includes:
 
 
 # 🔥 News
-- *2026.06*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2026** (early accepted, top 9%).
+- *2026.06*: &nbsp;🎉🎉 2 papers in total accepted to **MICCAI 2026**
+- *2026.05*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2026** (early accepted, top 9%).
 - *2026.02*: &nbsp;🎉🎉 A paper accepted to **CVPR 2026** 
 - *2026.02*: &nbsp;🎊🎊 Won the Bronze prize in Samsung Humantech Paper Award.
 - *2026.02*: &nbsp;🎊🎊 Won the Silver prize in 38th Workshop on Image Processing and Image Understanding (IPIU).
@@ -83,7 +84,7 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
-  <!--# 
+
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
@@ -97,7 +98,6 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
-  -->
   
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
