@@ -95,7 +95,7 @@ My primary research interest includes:
       <strong>SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</strong><br/>
       <a href="https://about:blank">[paper]</a><br/>
       <strong>Minjae Jeong</strong>*, Jaejin Lee*, Yechan Hwang, Won Hwa Kim <em>(* equal contribution)</em><br/>
-      <span style="color:purple">UnderReview</span> 
+      <span style="color:purple">MICCAI 2026</span>
     </td>
   </tr>
   
