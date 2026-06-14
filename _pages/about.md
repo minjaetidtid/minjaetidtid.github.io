@@ -88,7 +88,7 @@ My primary research interest includes:
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
-        <img src="/assets/css/placeholder.png" style="width:260px;height:auto;display:block;">
+        <img src="/assets/css/SurgMark.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
