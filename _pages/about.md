@@ -70,7 +70,7 @@ My primary research interest includes:
       <mark class="purple">Bronze prize at 32th Samsung Humantech Paper Award</mark>
     </td>
   </tr>
-  <!--# 
+
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
@@ -84,7 +84,22 @@ My primary research interest includes:
       <span style="color:purple">UnderReview</span> 
     </td>
   </tr>
--->
+
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
+        <img src="/assets/css/SurgMark.png" style="width:260px;height:auto;display:block;">
+      </div>
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>Residual-Guided Expert Specialization for Incomplete Multimodal Learning</strong><br/>
+      <a href="https://about:blank">[paper]</a><br/>
+      Seunghun Baek, Jihwan Park, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Hoseok Lee, Won Hwa Kim</em><br/>
+      <span style="color:purple">ECCV 2026</span>
+      <mark class="purple">Bronze prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
+    </td>
+  </tr>
+
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
