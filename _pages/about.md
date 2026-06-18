@@ -26,6 +26,7 @@ My primary research interest includes:
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 A paper accepted to **ECCV 2026**.
 - *2026.06*: &nbsp;🎉🎉 2 papers in total accepted to **MICCAI 2026**
 - *2026.05*: &nbsp;🎉🎉 A paper accepted to **MICCAI 2026** (early accepted, top 9%).
 - *2026.02*: &nbsp;🎉🎉 A paper accepted to **CVPR 2026** 
