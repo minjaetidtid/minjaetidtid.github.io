@@ -95,7 +95,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Residual-Guided Expert Specialization for Incomplete Multimodal Learning</strong><br/>
-      <a href="https://about:blank">[paper]</a><br/>
+      <a href="https://eccv.ecva.net/virtual/2026/poster/3678">[paper]</a><br/>
       Seunghun Baek, Jihwan Park, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Hoseok Lee, Won Hwa Kim<br/>
       <span style="color:purple">ECCV 2026</span><br/>
       <mark class="purple">Bronze prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
@@ -110,7 +110,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</strong><br/>
-      <a href="https://about:blank">[paper]</a><br/>
+      <a href="https://papers.miccai.org/miccai-2026/1015-Paper2259.html">[paper]</a><br/>
       <strong>Minjae Jeong</strong>*, Jaejin Lee*, Yechan Hwang, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">MICCAI 2026</span>
     </td>
@@ -124,7 +124,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</strong><br/>
-      <a href="https://about:blank">[paper]</a><br/>
+      <a href="https://papers.miccai.org/miccai-2026/0566-Paper2250.html">[paper]</a><br/>
       <strong>Minjae Jeong</strong>*, Seungjoo Lee*, Jaejin Lee, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">MICCAI 2026</span> <span style="color:red">(Early Accept: ~9%)</span>
     </td>
