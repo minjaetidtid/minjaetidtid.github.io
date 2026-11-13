@@ -110,7 +110,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>SurgMark: Structure-Aware Watermarking for 4D Gaussian Splatting in Surgical Scenes</strong><br/>
-      <a href="https://papers.miccai.org/miccai-2026/1015-Paper2259.html">[paper]</a><br/>
+      <a href="https://papers.miccai.org/miccai-2026/1015-Paper2259.html">[paper]</a> <a href="https://github.com/minjaetidtid/SurgMark">[code]</a><br/>
       <strong>Minjae Jeong</strong>*, Jaejin Lee*, Yechan Hwang, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">MICCAI 2026</span>
     </td>
@@ -124,7 +124,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Learning Robust Medical Image Segmentation under Mixed-Quality Annotations</strong><br/>
-      <a href="https://papers.miccai.org/miccai-2026/0566-Paper2250.html">[paper]</a><br/>
+      <a href="https://papers.miccai.org/miccai-2026/0566-Paper2250.html">[paper]</a> <a href="https://github.com/minjaetidtid/RGSS">[code]</a><br/>
       <strong>Minjae Jeong</strong>*, Seungjoo Lee*, Jaejin Lee, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">MICCAI 2026</span> <span style="color:red">(Early Accept: ~9%)</span>
     </td>
@@ -138,7 +138,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Mark4D: Temporally-Consistent Watermarking for 4D Gaussian Splatting</strong><br/>
-      <a href="https://cvpr.thecvf.com/virtual/2026/poster/38368">[paper]</a><br/>
+      <a href="https://cvpr.thecvf.com/virtual/2026/poster/38368">[paper]</a> <a href="https://github.com/minjaetidtid/Mark4D">[code]</a><br/>
       Jaejin Lee*, <strong>Minjae Jeong</strong>*, Joonhyuk Park, Yechan Hwang, Seunghun Baek, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">CVPR 2026</span><br/>
       <mark class="purple">Silver prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
@@ -167,7 +167,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining</strong><br/>
-      <a href="https://iclr.cc/virtual/2025/poster/30181">[paper]</a><br/>
+      <a href="https://iclr.cc/virtual/2025/poster/30181">[paper]</a> <a href="https://github.com/minjaetidtid/HGM3">[code]</a><br/>
       <strong>Minjae Jeong</strong>*, Yechan Hwang*, Jaejin Lee, Sungyoon Jung, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">ICLR 2025</span><br/>
       <mark class="purple">Excellence paper award from the Graduate School of AI, POSTECH</mark>
@@ -182,7 +182,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Uncertainty-aware Diffusion-based Adversarial Attack for Realistic Colonoscopy Image Synthesis</strong><br/>
-      <a href="https://papers.miccai.org/miccai-2024/809-Paper2811.html">[paper]</a><br/>
+      <a href="https://papers.miccai.org/miccai-2024/809-Paper2811.html">[paper]</a> <a href="https://github.com/minjaetidtid/DASP">[code]</a><br/>
       <strong>Minjae Jeong</strong>*, Hyuna Cho*, Sungyoon Jung, Won Hwa Kim <em>(* equal contribution)</em><br/>
       <span style="color:purple">MICCAI 2024</span> <span style="color:red">(Early Accept: ~11%)</span>
     </td>
