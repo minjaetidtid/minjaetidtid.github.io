@@ -95,7 +95,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>Residual-Guided Expert Specialization for Incomplete Multimodal Learning</strong><br/>
-      <a href="https://eccv.ecva.net/virtual/2026/poster/3678">[paper]</a><br/>
+      <a href="https://eccv.ecva.net/virtual/2026/poster/3678">[paper]</a> <a href="https://github.com/seunghub/MARS">[code]</a><br/>
       Seunghun Baek, Jihwan Park, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Hoseok Lee, Won Hwa Kim<br/>
       <span style="color:purple">ECCV 2026</span><br/>
       <mark class="purple">Bronze prize at 38th Workshop on Image Processing and Image Understanding (IPIU)</mark>
@@ -153,7 +153,7 @@ My primary research interest includes:
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
       <strong>MNM: Multi-level Neuroimaging Meta-analysis with Hyperbolic Brain-Text Representations</strong><br/>
-      <a href="https://papers.miccai.org/miccai-2025/0574-Paper0365.html">[paper]</a><br/>
+      <a href="https://papers.miccai.org/miccai-2025/0574-Paper0365.html">[paper]</a> <a href="https://github.com/seunghub/Multi-level-Neuroimaging-Meta-analysis">[code]</a><br/>
       Seunghun Baek, Jaejin Lee, Jaeyoon Sim, <strong>Minjae Jeong</strong>, Won Hwa Kim<br/>
       <span style="color:purple">MICCAI 2025</span> <span style="color:red">(Early Accept: ~9%)</span>
     </td>
