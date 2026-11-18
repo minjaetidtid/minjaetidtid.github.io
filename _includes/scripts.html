@@ -7,6 +7,15 @@
 <style>
   .medium-zoom-overlay, .medium-zoom-image--opened { z-index: 1000; }
   .medium-zoom-overlay { background: rgba(255, 255, 255, 0.95) !important; }
+
+  /* phones: publication figure on top, description below */
+  @media (max-width: 600px) {
+    .pub-table, .pub-table tbody, .pub-table tr, .pub-table td { display: block; width: 100% !important; }
+    .pub-table td { padding: 0 !important; }
+    .pub-table tr { margin-bottom: 28px; }
+    .pub-table td > div { width: 100% !important; height: auto !important; aspect-ratio: 260 / 150; margin-bottom: 10px; }
+    .pub-table td > div > img { width: 100% !important; }
+  }
 </style>
 <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
 <script>
