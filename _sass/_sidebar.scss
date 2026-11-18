@@ -268,3 +268,50 @@
     display: none;
   }
 }
+/*
+   Phones / narrow screens (below $large): centered, stacked profile
+   ========================================================================== */
+.author__sub { display: none; }
+
+@media (max-width: 57.8124em) {
+  .profile_box {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0.5em 0 0.75em;
+  }
+  .author__avatar {
+    display: block;
+    width: auto;
+    img {
+      width: 150px;
+      height: auto;
+      min-width: 0;
+      max-width: none;
+    }
+  }
+  .author__content {
+    display: block;
+    padding-left: 0;
+    margin-top: 0.75em;
+    line-height: 1.3;
+  }
+  .sidebar .author__name { font-size: $type-size-3; }
+  .author__sub {
+    display: block;
+    margin: 0.3em 0 0;
+    color: $gray;
+    font-size: $type-size-6;
+  }
+  .author__urls-wrapper {
+    display: block;
+    margin-left: 0;
+    margin-top: 0.5em;
+  }
+  .author__urls_sm {
+    display: flex;
+    justify-content: center;
+    gap: 0.9em;
+    font-size: 1.5em;
+  }
+}
