@@ -47,6 +47,20 @@ My primary research interest includes:
   <tr style="border:none;">
     <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
       <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
+        <img src="/assets/css/TrajGuard.png" style="width:260px;height:auto;display:block;">
+      </div>
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>TrajGuard: Immunizing 4D Gaussian Splatting Against Text-Guided Editing via Trajectory-Anchored Correspondence Disruption</strong><br/>
+      <a href="https://about:blank">[paper]</a><br/>
+      <strong>Minjae Jeong</strong>, Seungjoo Lee, Won Hwa Kim<br/>
+      <span style="color:purple">UnderReview</span> 
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <div style="width:260px;height:150px;background:white;display:flex;align-items:center;justify-content:center;overflow:hidden;border:2px dashed #ccc;border-radius:8px;">
         <img src="/assets/css/guardflow.png" style="width:260px;height:auto;display:block;">
       </div>
     </td>
