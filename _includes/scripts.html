@@ -2,3 +2,13 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<!-- click a publication thumbnail to enlarge it -->
+<style>
+  .medium-zoom-overlay, .medium-zoom-image--opened { z-index: 1000; }
+  .medium-zoom-overlay { background: rgba(255, 255, 255, 0.95) !important; }
+</style>
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.1.0/dist/medium-zoom.min.js"></script>
+<script>
+  mediumZoom('img[src*="/assets/css/"]', { margin: 24 });
+</script>
