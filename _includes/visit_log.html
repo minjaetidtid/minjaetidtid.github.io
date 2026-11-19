@@ -1,0 +1,123 @@
+<!-- visit statistics: events are sent to the lab NAS (see the footer notice) -->
+<script>
+(function () {
+  if (location.hostname !== 'minjaetidtid.github.io') return;
+  var EP = 'https://minjaetidtid.synology.me/sv/p.cgi';
+  var T0 = Date.now();
+
+  function send(o) {
+    try {
+      var body = JSON.stringify(o);
+      if (navigator.sendBeacon && navigator.sendBeacon(EP, new Blob([body], { type: 'text/plain' }))) return;
+      fetch(EP, { method: 'POST', body: body, keepalive: true, headers: { 'Content-Type': 'text/plain' } })
+        .catch(function () {});
+    } catch (e) {}
+  }
+  function store(kind) { try { return window[kind]; } catch (e) { return null; } }
+  function get(s, k) { try { return s && s.getItem(k); } catch (e) { return null; } }
+  function set(s, k, v) { try { s && s.setItem(k, v); } catch (e) {} }
+  function rid() { return Math.random().toString(36).slice(2, 10) + Date.now().toString(36); }
+  function clip(s, n) { s = (s || '').replace(/\s+/g, ' ').trim(); return s.length > n ? s.slice(0, n) : s; }
+  function mq(q) { try { return matchMedia(q).matches; } catch (e) { return null; } }
+
+  // visitor (persistent) and session ids
+  var ls = store('localStorage'), ss = store('sessionStorage');
+  var vid = get(ls, 'sv_vid'); var isNew = !vid;
+  if (!vid) { vid = rid(); set(ls, 'sv_vid', vid); set(ls, 'sv_first', new Date().toISOString()); }
+  var sid = get(ss, 'sv_sid');
+  var newSession = !sid;
+  if (!sid) { sid = rid(); set(ss, 'sv_sid', sid); }
+  var visits = parseInt(get(ls, 'sv_n') || '0', 10) + (newSession ? 1 : 0);
+  if (newSession) set(ls, 'sv_n', String(visits));
+  var prevSeen = get(ls, 'sv_last');
+  set(ls, 'sv_last', new Date().toISOString());
+
+  var base = { vid: vid, sid: sid, page: location.pathname + location.search + location.hash };
+
+  // sections: "About Me" until the first h1 heading of the page body
+  var heads = [].slice.call(document.querySelectorAll('.page__content h1, #main h1'));
+  function sectionAt(y) {
+    var name = 'About Me';
+    for (var i = 0; i < heads.length; i++) {
+      if (heads[i].getBoundingClientRect().top + window.scrollY <= y) name = clip(heads[i].textContent.replace(/[^\w\s&.-]/g, ''), 40);
+    }
+    return name;
+  }
+  function sectionOf(el) { return sectionAt(el.getBoundingClientRect().top + window.scrollY + 1); }
+  function pubOf(el) {
+    var tr = el.closest && el.closest('.pub-table tr');
+    var t = tr && tr.querySelector('td:nth-child(2) strong');
+    return t ? clip(t.textContent, 80) : undefined;
+  }
+
+  // page view with device details
+  function view(ch) {
+    var c = navigator.connection || {};
+    var p = new URLSearchParams(location.search), utm = {};
+    ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content'].forEach(function (k) { if (p.get(k)) utm[k] = p.get(k); });
+    send(Object.assign({
+      e: 'view', ref: document.referrer, utm: utm,
+      visitor: { isNew: isNew, visits: visits, first: get(ls, 'sv_first'), prevSeen: prevSeen },
+      tz: (Intl.DateTimeFormat().resolvedOptions() || {}).timeZone, tzOffset: new Date().getTimezoneOffset(),
+      langs: navigator.languages || [navigator.language],
+      screen: { w: screen.width, h: screen.height, aw: screen.availWidth, ah: screen.availHeight,
+                vw: innerWidth, vh: innerHeight, dpr: devicePixelRatio, depth: screen.colorDepth,
+                orient: screen.orientation && screen.orientation.type },
+      device: { touch: navigator.maxTouchPoints, cores: navigator.hardwareConcurrency, memGB: navigator.deviceMemory,
+                platform: navigator.platform, dark: mq('(prefers-color-scheme: dark)'),
+                reducedMotion: mq('(prefers-reduced-motion: reduce)'), cookies: navigator.cookieEnabled },
+      net: { type: c.effectiveType, downlink: c.downlink, rtt: c.rtt, saveData: c.saveData },
+      ch: ch
+    }, base));
+  }
+  var uad = navigator.userAgentData;
+  if (uad && uad.getHighEntropyValues) {
+    var done = false;
+    var fin = function (ch) { if (!done) { done = true; view(ch); } };
+    uad.getHighEntropyValues(['model', 'platform', 'platformVersion', 'fullVersionList', 'architecture', 'bitness', 'mobile', 'formFactors'])
+      .then(fin, function () { fin({ mobile: uad.mobile, platform: uad.platform }); });
+    setTimeout(function () { fin({ mobile: uad.mobile, platform: uad.platform, timeout: true }); }, 1500);
+  } else {
+    view(null);
+  }
+
+  // engagement: active time, scroll depth, time per section
+  var active = 0, maxScroll = 0, secs = {};
+  setInterval(function () {
+    if (document.visibilityState !== 'visible') return;
+    active++;
+    var s = sectionAt(window.scrollY + innerHeight * 0.3);
+    secs[s] = (secs[s] || 0) + 1;
+  }, 1000);
+  addEventListener('scroll', function () {
+    var h = document.documentElement.scrollHeight - innerHeight;
+    var pct = h > 0 ? Math.round(100 * window.scrollY / h) : 100;
+    if (pct > maxScroll) maxScroll = pct;
+  }, { passive: true });
+
+  // clicks on links and publication figures, copies
+  document.addEventListener('click', function (ev) {
+    var a = ev.target.closest && ev.target.closest('a');
+    if (a) {
+      send(Object.assign({ e: 'click', href: a.href, text: clip(a.textContent, 60), section: sectionOf(a), pub: pubOf(a), t: Math.round((Date.now() - T0) / 1000) }, base));
+      return;
+    }
+    var img = ev.target.closest && ev.target.closest('img');
+    if (img && (img.classList.contains('author__avatar') || /\/assets\/css\//.test(img.getAttribute('src') || '')) && !img.classList.contains('medium-zoom-image--opened')) {
+      send(Object.assign({ e: 'zoom', src: img.getAttribute('src'), pub: pubOf(img), t: Math.round((Date.now() - T0) / 1000) }, base));
+    }
+  }, true);
+  document.addEventListener('copy', function () {
+    var s = String(window.getSelection ? window.getSelection() : '');
+    send(Object.assign({ e: 'copy', text: clip(s, 120) }, base));
+  });
+
+  // summary whenever the page is hidden or closed (cumulative; the last one wins)
+  var seq = 0;
+  function leave() {
+    send(Object.assign({ e: 'leave', seq: ++seq, active: active, total: Math.round((Date.now() - T0) / 1000), maxScroll: maxScroll, sections: secs }, base));
+  }
+  document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') leave(); });
+  addEventListener('pagehide', leave);
+})();
+</script>
