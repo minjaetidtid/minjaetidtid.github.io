@@ -107,6 +107,7 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+        <li class="visitor-count" style="display:none"><i class="fas fa-fw fa-eye" aria-hidden="true"></i> Today <span class="vc-today"></span> · Total <span class="vc-total"></span></li>
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
@@ -215,5 +216,6 @@
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
     </div>
+      <p class="visitor-count visitor-count--sm" style="display:none"><i class="fas fa-fw fa-eye" aria-hidden="true"></i> Today <span class="vc-today"></span> · Total <span class="vc-total"></span></p>
   </div>
 </div>

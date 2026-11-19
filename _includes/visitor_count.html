@@ -1,0 +1,12 @@
+<!-- today / total visitors (from Google Analytics, updated hourly by .github/workflows/visitors.yml) -->
+<script>
+  (function () {
+    var url = 'https://raw.githubusercontent.com/minjaetidtid/minjaetidtid.github.io/visitor-stats/visitors.json';
+    fetch(url, { cache: 'no-store' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+      if (!d) return;
+      document.querySelectorAll('.vc-today').forEach(function (e) { e.textContent = d.today.toLocaleString(); });
+      document.querySelectorAll('.vc-total').forEach(function (e) { e.textContent = d.total.toLocaleString(); });
+      document.querySelectorAll('.visitor-count').forEach(function (e) { e.style.display = ''; e.title = 'Updated ' + d.updated; });
+    }).catch(function () {});
+  })();
+</script>
