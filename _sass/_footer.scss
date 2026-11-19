@@ -90,3 +90,33 @@
     }
   }
 }
+
+/* site footer (normal flow, below the content) */
+.site-footer {
+  clear: both;
+  margin-top: 3em;
+  border-top: 1px solid $light-gray;
+  background-color: $lighter-gray;
+  color: $gray;
+  font-size: $type-size-7;
+
+  .site-footer__inner {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 1.5em 1em 2em;
+    @include breakpoint($x-large) {
+      max-width: $x-large;
+    }
+  }
+  p { margin: 0.2em 0; }
+  a {
+    color: inherit;
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+  @media (max-width: 57.8124em) {
+    text-align: center;
+    .site-footer__sep { display: none; }
+    .site-footer__address a { display: block; margin-top: 0.2em; }
+  }
+}
