@@ -1,0 +1,36 @@
+name: Visitor Report
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Fetch detailed report from Google Analytics
+        run: |
+          pip install -q google-auth requests
+          python .github/scripts/ga_report.py
+        env:
+          GA_SA_KEY: ${{ secrets.GA_SA_KEY }}
+          GA_PROPERTY_ID: ${{ secrets.GA_PROPERTY_ID }}
+          GA_START_DATE: '2026-11-19'
+          OUT: out/report.json
+      - name: Encrypt (the repository is public)
+        run: |
+          openssl enc -aes-256-cbc -pbkdf2 -salt -in out/report.json -out report.json.enc -pass env:REPORT_PASS
+          rm out/report.json
+        env:
+          REPORT_PASS: ${{ secrets.REPORT_PASS }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: visitor-report
+          path: report.json.enc
+          retention-days: 1
