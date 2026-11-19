@@ -263,7 +263,7 @@ Neural Information Processing Systems <span style="color:purple">**(NeurIPS)**</
 # 📖 Educations
 - *2022.09 - Present*, Ph.D. in Graduate School of Artificial Intelligence, <a href="https://www.postech.ac.kr/eng/" style="color: #7289da; text-decoration: none;">POSTECH</a>.
 - *2018.03 - 2022.08*, B.S. in Electrical Engineering and Computer Science, <a href="https://www.gist.ac.kr/en/main.html" style="color: #7289da; text-decoration: none;">GIST</a>.
-- *2016.03 - 2018.02*, Jeonnam Science High School, a high school for students gifted in math and science (early graduation).
+- *2016.03 - 2018.02*, <a href="https://jeonnam-sh.jge.hs.kr/chonnam-sh_hs/main.do?sysId=chonnam-sh_hs" style="color: #7289da; text-decoration: none;">Jeonnam Science High School</a>, a high school for students gifted in math and science (early graduation).
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
